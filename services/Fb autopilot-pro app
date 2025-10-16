@@ -1,0 +1,38 @@
+facebook-autopilot-pro/
+├── components/
+│   ├── agents/
+│   │   ├── AnalyticsAgent.tsx
+│   │   ├── ContentAgent.tsx
+│   │   ├── GroupAgent.tsx
+│   │   ├── ImageAgent.tsx
+│   │   ├── InteractionAgent.tsx
+│   │   ├── SchedulerAgent.tsx
+│   │   └── VideoAgent.tsx
+│   ├── icons/
+│   │   ├── CalendarIcon.tsx
+│   │   ├── ChartBarIcon.tsx
+│   │   ├── HeartIcon.tsx
+│   │   ├── ImageIcon.tsx
+│   │   ├── ListIcon.tsx
+│   │   ├── PenIcon.tsx
+│   │   ├── UsersIcon.tsx
+│   │   └── VideoIcon.tsx
+│   ├── ActivityLogFeed.tsx
+│   ├── Card.tsx
+│   ├── Dashboard.tsx
+│   ├── Header.tsx
+│   └── Login.tsx
+├── hooks/
+│   └── useLocalStorage.ts
+├── services/
+│   ├── facebookService.ts
+│   └── geminiService.ts
+├── App.tsx
+├── index.html
+├── index.tsx
+├── metadata.json
+├── package.json
+├── README.md
+├── tsconfig.json
+├── types.ts
+└── vite.config.ts
